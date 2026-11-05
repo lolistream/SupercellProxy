@@ -3,7 +3,7 @@ name: Update Server Public Keys
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '42 * * * *'
 
 permissions:
   contents: write
@@ -44,7 +44,7 @@ jobs:
   update-game:
     name: Update ${{ matrix.app_name }}
     needs: discover-games
-    runs-on: macos-latest
+    runs-on: ubuntu-latest
     timeout-minutes: 330
     strategy:
       fail-fast: false
