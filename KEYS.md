@@ -42,6 +42,7 @@
 ## [Clash of Clans](https://decrypt.day/app/id529479190)
 | Game version | Key version | Key                                                                |
 | ------------ | ----------- | ------------------------------------------------------------------ |
+| 19.32.10     | 153         | `1CACB24B16C5C0C200A0956C3CAFBD90FDBCA8783733326D5FE2E2D87E876E7C` |
 | 19.32.4      | 153         | `1CACB24B16C5C0C200A0956C3CAFBD90FDBCA8783733326D5FE2E2D87E876E7C` |
 | 18.647.5     | 152         | `ED6CFCC7691626150415D045D462F66E15D7FA8AC298568EEB3E16989585E15B` |
 | 18.647.2     | 152         | `ED6CFCC7691626150415D045D462F66E15D7FA8AC298568EEB3E16989585E15B` |
